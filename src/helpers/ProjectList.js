@@ -1,7 +1,7 @@
 import Proj1 from "../assets/proj1.png";
 import Proj2 from "../assets/proj2.png";
 import Proj3 from "../assets/proj3.png";
-import Proj4 from "../assets/proj4.webp";
+import Proj4 from "../assets/proj4.png";
 import Proj5 from "../assets/proj5.jpg";
 import Proj6 from "../assets/proj6.png";
 
@@ -22,9 +22,9 @@ export const ProjectList = [
     skills: "React,HTML,CSS,OMDB API",
   },
   {
-    name: "Social Media Website",
+    name: "Taskify",
     image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
+    skills: "React,TypeScript,HTML,CSS",
   },
   {
     name: "Dashboard Visualizer",
