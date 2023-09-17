@@ -10,11 +10,13 @@ export const ProjectList = [
     name: "Car Rental",
     image: Proj1,
     skills: "JavaScript,HTML,CSS,Firebase",
+    link: "https://github.com/QuinSack/car_rent",
   },
   {
     name: "Thank You Small Library",
     image: Proj2,
     skills: "JavaScript,HTML,CSS,Firebase",
+    link: "https://github.com/QuinSack/crud_library"
   },
   {
     name: "Movie Site Clone",
@@ -25,6 +27,7 @@ export const ProjectList = [
     name: "Taskify",
     image: Proj4,
     skills: "React,TypeScript,HTML,CSS",
+    link: "https://github.com/QuinSack/taskify"
   },
   {
     name: "Dashboard Visualizer",
