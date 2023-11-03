@@ -9,10 +9,15 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <InstagramIcon />
-        <TwitterIcon />
-        <FacebookIcon />
-        <LinkedInIcon />
+        <a href="https://www.instagram.com/captain_sack">
+          <InstagramIcon />
+        </a>
+        <a href="https://www.facebook.com/Divine Sackitey">
+          <FacebookIcon />
+        </a>
+        <a href="https://www.linkedin.com/in/divine-sackitey-624ab0194">
+          <LinkedInIcon />
+        </a>
       </div>
       <p> &copy; 2022 quinsack.com</p>
     </div>
