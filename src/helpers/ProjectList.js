@@ -3,20 +3,22 @@ import Proj2 from "../assets/proj2.png";
 import Proj3 from "../assets/proj3.png";
 import Proj4 from "../assets/proj4.png";
 import Proj5 from "../assets/proj5.jpg";
-import Proj6 from "../assets/proj6.png";
+import Proj6 from "../assets/proj6.png"
 
 export const ProjectList = [
   {
     name: "Car Rental",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS,Firebase",
+    skills: "JavaScript,HTML,CSS,Firebase,Reactstrap",
     link: "https://github.com/QuinSack/car_rent",
+    demo: "http://quinsack-car-rentals.vercel.app"
   },
   {
     name: "Thank You Small Library",
     image: Proj2,
     skills: "JavaScript,HTML,CSS,Firebase",
-    link: "https://github.com/QuinSack/crud_library"
+    link: "https://github.com/QuinSack/crud_library",
+    demo: "https://crud-library.vercel.app"
   },
   {
     name: "Movie Site Clone",
@@ -27,7 +29,8 @@ export const ProjectList = [
     name: "Taskify",
     image: Proj4,
     skills: "React,TypeScript,HTML,CSS",
-    link: "https://github.com/QuinSack/taskify"
+    link: "https://github.com/QuinSack/taskify",
+    demo: "https://taskify-five-mu.vercel.app"
   },
   {
     name: "Dashboard Visualizer",
@@ -35,8 +38,9 @@ export const ProjectList = [
     skills: "JavaScript,HTML,CSS",
   },
   {
-    name: "Mobile Game",
+    name: "Cosmetics Hub",
     image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
-  },
+    skills: "React,JavaScript,HTML,CSS",
+    demo: "https://cosmetics-hub-qs52.vercel.app"
+  }
 ];

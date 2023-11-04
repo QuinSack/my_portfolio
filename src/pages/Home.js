@@ -33,8 +33,8 @@ function Home() {
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              ASP.NET Core, GraphQL, PHP,
-              Postgresql,AWS S3
+              ASP.NET Core, GraphQL, MySQL,
+              Postgresql, AWS S3, Firebase
             </span>
           </li>
           <li className="item">
