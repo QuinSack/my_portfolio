@@ -10,7 +10,7 @@ export const ProjectList = [
   {
     name: "Car Rental",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS,Firebase,Reactstrap",
+    skills: "JavaScript,HTML,CSS,Firebase,Reactstrap, OMDBApi",
     link: "https://github.com/QuinSack/car_rent",
     demo: "http://quinsack-car-rentals.vercel.app"
   },
@@ -48,7 +48,8 @@ export const ProjectList = [
   {
     name: "Cosmetics Hub",
     image: Proj5,
-    skills: "React,JavaScript,HTML,CSS",
+    skills: "React,TypeScript,HTML,CSS",
+    link: "https://github.com/QuinSack/cosmetics_hub",
     demo: "https://cosmetics-hub-qs52.vercel.app"
   }
 ];
